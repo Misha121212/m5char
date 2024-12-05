@@ -1,4 +1,4 @@
-# m5char
+# m5char.ru
 Разработчики:
 @MikDoOffical
 Спонсоры:
